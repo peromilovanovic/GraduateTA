@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="43" started-at="2016-08-04T14:51:43Z" finished-at="2016-08-04T14:51:43Z">
+  <suite name="Default suite" duration-ms="25680" started-at="2016-08-05T14:05:13Z" finished-at="2016-08-05T14:05:39Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="43" started-at="2016-08-04T14:51:43Z" finished-at="2016-08-04T14:51:43Z">
-      <class name="test.Test1">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.Test1@7c0e2abd]" name="beforeClass" is-config="true" duration-ms="11" started-at="2016-08-04T16:51:43Z" finished-at="2016-08-04T16:51:43Z">
+    <test name="Default test" duration-ms="25680" started-at="2016-08-05T14:05:13Z" finished-at="2016-08-05T14:05:39Z">
+      <class name="test.Veryfication$Login">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.Veryfication$Login@6d78f375]" name="beforeClass" is-config="true" duration-ms="14138" started-at="2016-08-05T16:05:13Z" finished-at="2016-08-05T16:05:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="f()[pri:0, instance:test.Test1@7c0e2abd]" name="f" duration-ms="9" started-at="2016-08-04T16:51:43Z" finished-at="2016-08-04T16:51:43Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:test.Veryfication$Login@6d78f375]" name="f" duration-ms="10218" started-at="2016-08-05T16:05:27Z" finished-at="2016-08-05T16:05:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.Test1@7c0e2abd]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-08-04T16:51:43Z" finished-at="2016-08-04T16:51:43Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.Veryfication$Login@6d78f375]" name="afterClass" is-config="true" duration-ms="1273" started-at="2016-08-05T16:05:37Z" finished-at="2016-08-05T16:05:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- test.Test1 -->
+      </class> <!-- test.Veryfication$Login -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
